@@ -1,0 +1,22 @@
+#head{
+    background-color: green;
+    float: left;
+    width: 100%;
+}
+#table1{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+#value{
+    text-align: center;
+}
+td{
+    border: 1px solid black;
+}
+/* #table2{
+    border: 0px solid black;
+} */
+/* #title{
+    text-align: center;
+} */
